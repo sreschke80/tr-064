@@ -6,7 +6,7 @@ TR-064 - UPnP/IGD for node.js
 ## Description
 
 A library to interact with routers and other network devices.
-Tested and designd for Fritz.Box routers.
+Tested and designed for Fritz.Box routers.
 
 This library is capable of:
 * Supports the UPnP, IGD and PMR (Samsung TV) Protocol
